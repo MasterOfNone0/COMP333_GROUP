@@ -1,2 +1,2 @@
 # COMP333_GROUP
-COMP333 Group Project
+For our software engineering project we made a 2-D horror-mystery simulation game using the RenPy engine.
